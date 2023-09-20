@@ -1,7 +1,7 @@
 function startGame() {
   // Personalized welcome message
   let userName = prompt("What is your name?");
-  alert("Welcome to our site" +userName!);
+  alert("Welcome to our site" +userName);
 
   // Questions and their correct answers
   const questions = [
